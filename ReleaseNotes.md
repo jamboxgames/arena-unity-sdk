@@ -1,3 +1,6 @@
+# Version 2.3.0 (9 Jan 2023)
+1. Added Leaderboard APIs
+
 # Version 2.2.7 (22 May 2022)
 1. Added Scoring Mode and Sorting fields in Tournaments details.
 2. Handling Tournament types of Sorting order Increasing in Realtime Leaderboard Widget.
