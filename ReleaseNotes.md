@@ -1,3 +1,6 @@
+# Version 2.3.1 (25 Jan 2023)
+1. Added Filter for GetTournamentDetail APIs
+
 # Version 2.3.0 (9 Jan 2023)
 1. Added Leaderboard APIs
 
