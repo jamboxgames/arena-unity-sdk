@@ -1,3 +1,7 @@
+# Version 2.3.2 (8 Feb 2023)
+1. Added user limit in Leaderboard member APIs
+2. Add functionality to update User metadata from client.
+
 # Version 2.3.1 (25 Jan 2023)
 1. Added Filter for GetTournamentDetail APIs
 
